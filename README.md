@@ -35,3 +35,14 @@ Myshell> ls –al /usr/src/linux | grep linux
 • Execute the cd and pwd commands
 Myshell> cd some_path
 Myshell> pwd
+
+How to build and run the program:
+
+## Building Instructions
+1.  Open terminal
+2.  Change directory to the folder "shellprogram" using cd and than cd to "myshell.c" 
+3.  Compile the myshell.c file using "gcc myshell.c -o hw"
+
+## Run Instructions
+1. Run the program using "./hw"
+
